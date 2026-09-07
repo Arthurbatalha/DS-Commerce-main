@@ -11,3 +11,4 @@ public class DscommerceApplication {
 	}
 
 }
+//mas garanto que esta tudo certinho, feito com base nas aulas

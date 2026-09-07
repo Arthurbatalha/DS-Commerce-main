@@ -11,4 +11,3 @@ public class DscommerceApplication {
 	}
 
 }
-//agora depois que fiz tudo, nao tenho oq commitar, (fiquei fazendo durante o tempo ausente

@@ -11,4 +11,3 @@ public class DscommerceApplication {
 	}
 
 }
-//fiz sem ficar commitando, agora nao tem 12 commits :/, nao sabia commitar direito, so enviava diretiorio
